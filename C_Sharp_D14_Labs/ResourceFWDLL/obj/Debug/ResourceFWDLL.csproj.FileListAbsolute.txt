@@ -1,0 +1,5 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFWDLL\bin\Debug\ResourceFWDLL.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFWDLL\bin\Debug\ResourceFWDLL.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFWDLL\obj\Debug\ResourceFWDLL.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFWDLL\obj\Debug\ResourceFWDLL.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFWDLL\obj\Debug\ResourceFWDLL.pdb

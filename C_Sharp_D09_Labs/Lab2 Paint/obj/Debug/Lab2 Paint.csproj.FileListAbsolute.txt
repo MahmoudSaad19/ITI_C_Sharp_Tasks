@@ -1,0 +1,9 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\bin\Debug\Lab2 Paint.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\bin\Debug\Lab2 Paint.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\bin\Debug\Lab2 Paint.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\obj\Debug\Lab2 Paint.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\obj\Debug\Lab2_Paint.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\obj\Debug\Lab2 Paint.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\obj\Debug\Lab2 Paint.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\obj\Debug\Lab2 Paint.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab2 Paint\obj\Debug\Lab2_Paint.window.resources

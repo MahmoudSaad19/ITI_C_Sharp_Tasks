@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\bin\Debug\Detailed Table.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\bin\Debug\Detailed Table.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\bin\Debug\Detailed Table.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\bin\Debug\BLL.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\bin\Debug\DAL.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\bin\Debug\BLL.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\bin\Debug\DAL.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\bin\Debug\DAL.dll.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\obj\Debug\Detailed Table.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\obj\Debug\Detailed_Table.ProductDetailed.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\obj\Debug\Detailed_Table.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\obj\Debug\Detailed Table.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\obj\Debug\Detailed Table.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\obj\Debug\Detailed Table.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D11_Labs\Detailed Table\obj\Debug\Detailed Table.pdb

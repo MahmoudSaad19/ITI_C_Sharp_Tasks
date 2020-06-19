@@ -1,0 +1,9 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\bin\Debug\Lab4 Ball Timer.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\bin\Debug\Lab4 Ball Timer.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\bin\Debug\Lab4 Ball Timer.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\obj\Debug\Lab4 Ball Timer.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\obj\Debug\Lab4_Ball_Timer.Lab4.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\obj\Debug\Lab4_Ball_Timer.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\obj\Debug\Lab4 Ball Timer.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\obj\Debug\Lab4 Ball Timer.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab4 Ball Timer\obj\Debug\Lab4 Ball Timer.pdb

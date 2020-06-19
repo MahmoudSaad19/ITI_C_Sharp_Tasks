@@ -1,0 +1,10 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\bin\Debug\Lab1 Dialoge.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\bin\Debug\Lab1 Dialoge.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\bin\Debug\Lab1 Dialoge.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\obj\Debug\Lab1 Dialoge.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\obj\Debug\Lab1 Dialoge.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\obj\Debug\Lab1 Dialoge.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\obj\Debug\Lab1 Dialoge.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\obj\Debug\Lab1.Lab1.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D09_Labs\Lab1\obj\Debug\Lab1.DialogeTXT.resources

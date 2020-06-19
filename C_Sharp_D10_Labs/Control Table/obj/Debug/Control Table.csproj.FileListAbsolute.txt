@@ -1,0 +1,9 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\bin\Debug\Control Table.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\bin\Debug\Control Table.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\bin\Debug\Control Table.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\obj\Debug\Control Table.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\obj\Debug\Control_Table.Detailed.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\obj\Debug\Control_Table.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\obj\Debug\Control Table.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\obj\Debug\Control Table.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\Control Table\obj\Debug\Control Table.pdb

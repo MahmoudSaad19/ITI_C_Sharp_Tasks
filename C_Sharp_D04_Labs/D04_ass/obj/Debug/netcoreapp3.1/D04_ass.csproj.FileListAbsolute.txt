@@ -1,0 +1,11 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\obj\Debug\netcoreapp3.1\D04_ass.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\obj\Debug\netcoreapp3.1\D04_ass.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\obj\Debug\netcoreapp3.1\D04_ass.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\bin\Debug\netcoreapp3.1\D04_ass.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\bin\Debug\netcoreapp3.1\D04_ass.deps.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\bin\Debug\netcoreapp3.1\D04_ass.runtimeconfig.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\bin\Debug\netcoreapp3.1\D04_ass.runtimeconfig.dev.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\bin\Debug\netcoreapp3.1\D04_ass.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\bin\Debug\netcoreapp3.1\D04_ass.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\obj\Debug\netcoreapp3.1\D04_ass.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D04_Labs\D04_ass\obj\Debug\netcoreapp3.1\D04_ass.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\bin\Debug\netcoreapp3.1\D03_ass_test_ref.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\bin\Debug\netcoreapp3.1\D03_ass_test_ref.deps.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\bin\Debug\netcoreapp3.1\D03_ass_test_ref.runtimeconfig.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\bin\Debug\netcoreapp3.1\D03_ass_test_ref.runtimeconfig.dev.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\bin\Debug\netcoreapp3.1\D03_ass_test_ref.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\bin\Debug\netcoreapp3.1\D03_ass_test_ref.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\obj\Debug\netcoreapp3.1\D03_ass_test_ref.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\obj\Debug\netcoreapp3.1\D03_ass_test_ref.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\obj\Debug\netcoreapp3.1\D03_ass_test_ref.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\obj\Debug\netcoreapp3.1\D03_ass_test_ref.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D03_Labs\D03_ass_test_ref\obj\Debug\netcoreapp3.1\D03_ass_test_ref.pdb

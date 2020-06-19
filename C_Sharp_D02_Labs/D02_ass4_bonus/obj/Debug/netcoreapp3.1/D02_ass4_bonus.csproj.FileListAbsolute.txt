@@ -1,0 +1,11 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\bin\Debug\netcoreapp3.1\D02_ass4_bonus.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\bin\Debug\netcoreapp3.1\D02_ass4_bonus.deps.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\bin\Debug\netcoreapp3.1\D02_ass4_bonus.runtimeconfig.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\bin\Debug\netcoreapp3.1\D02_ass4_bonus.runtimeconfig.dev.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\bin\Debug\netcoreapp3.1\D02_ass4_bonus.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\bin\Debug\netcoreapp3.1\D02_ass4_bonus.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\obj\Debug\netcoreapp3.1\D02_ass4_bonus.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\obj\Debug\netcoreapp3.1\D02_ass4_bonus.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\obj\Debug\netcoreapp3.1\D02_ass4_bonus.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\obj\Debug\netcoreapp3.1\D02_ass4_bonus.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D02_Labs\D02_ass4_bonus\obj\Debug\netcoreapp3.1\D02_ass4_bonus.pdb

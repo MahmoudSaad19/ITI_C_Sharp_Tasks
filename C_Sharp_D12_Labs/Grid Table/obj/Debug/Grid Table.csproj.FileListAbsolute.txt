@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\bin\Debug\Grid Table.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\bin\Debug\Grid Table.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\bin\Debug\Grid Table.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\bin\Debug\EntityFramework.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\bin\Debug\EntityFramework.xml
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\obj\Debug\Grid Table.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\obj\Debug\Grid_Table.Grid.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\obj\Debug\Grid_Table.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\obj\Debug\Grid Table.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\obj\Debug\Grid Table.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\obj\Debug\Grid Table.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Grid Table\obj\Debug\Grid Table.pdb

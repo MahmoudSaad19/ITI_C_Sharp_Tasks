@@ -1,0 +1,11 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\bin\Debug\netcoreapp3.1\Company Assignment.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\bin\Debug\netcoreapp3.1\Company Assignment.deps.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\bin\Debug\netcoreapp3.1\Company Assignment.runtimeconfig.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\bin\Debug\netcoreapp3.1\Company Assignment.runtimeconfig.dev.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\bin\Debug\netcoreapp3.1\Company Assignment.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\bin\Debug\netcoreapp3.1\Company Assignment.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\obj\Debug\netcoreapp3.1\Company Assignment.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\obj\Debug\netcoreapp3.1\Company Assignment.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\obj\Debug\netcoreapp3.1\Company Assignment.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\obj\Debug\netcoreapp3.1\Company Assignment.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D07_Labs\Company Assignment\obj\Debug\netcoreapp3.1\Company Assignment.pdb

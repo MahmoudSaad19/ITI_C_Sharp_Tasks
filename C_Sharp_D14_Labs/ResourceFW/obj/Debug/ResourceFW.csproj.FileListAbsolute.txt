@@ -1,0 +1,9 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\bin\Debug\ResourceFW.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\bin\Debug\ResourceFW.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\bin\Debug\ResourceFW.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\bin\Debug\ResourceFWDLL.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\bin\Debug\ResourceFWDLL.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\obj\Debug\ResourceFW.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\obj\Debug\ResourceFW.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\obj\Debug\ResourceFW.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D14_Labs\ResourceFW\obj\Debug\ResourceFW.pdb

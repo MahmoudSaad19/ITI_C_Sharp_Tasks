@@ -1,0 +1,6 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\ConsoleAppFWADO\bin\Debug\ConsoleAppFWADO.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\ConsoleAppFWADO\bin\Debug\ConsoleAppFWADO.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\ConsoleAppFWADO\bin\Debug\ConsoleAppFWADO.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\ConsoleAppFWADO\obj\Debug\ConsoleAppFWADO.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\ConsoleAppFWADO\obj\Debug\ConsoleAppFWADO.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D10_Labs\ConsoleAppFWADO\obj\Debug\ConsoleAppFWADO.pdb

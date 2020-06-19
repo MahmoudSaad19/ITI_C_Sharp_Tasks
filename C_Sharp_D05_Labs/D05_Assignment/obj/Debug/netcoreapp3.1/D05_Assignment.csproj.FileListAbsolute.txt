@@ -1,0 +1,11 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\bin\Debug\netcoreapp3.1\D05_Assignment.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\bin\Debug\netcoreapp3.1\D05_Assignment.deps.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\bin\Debug\netcoreapp3.1\D05_Assignment.runtimeconfig.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\bin\Debug\netcoreapp3.1\D05_Assignment.runtimeconfig.dev.json
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\bin\Debug\netcoreapp3.1\D05_Assignment.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\bin\Debug\netcoreapp3.1\D05_Assignment.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\obj\Debug\netcoreapp3.1\D05_Assignment.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\obj\Debug\netcoreapp3.1\D05_Assignment.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\obj\Debug\netcoreapp3.1\D05_Assignment.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\obj\Debug\netcoreapp3.1\D05_Assignment.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D05_Labs\D05_Assignment\obj\Debug\netcoreapp3.1\D05_Assignment.pdb

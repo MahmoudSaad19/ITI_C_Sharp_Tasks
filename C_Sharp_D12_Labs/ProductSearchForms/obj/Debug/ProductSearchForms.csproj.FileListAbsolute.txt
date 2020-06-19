@@ -1,0 +1,16 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\bin\Debug\ProductSearchForms.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\bin\Debug\ProductSearchForms.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\bin\Debug\ProductSearchForms.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\bin\Debug\EntityFramework.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\bin\Debug\EntityFramework.xml
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.Form1.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.Form2.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\ProductSearchForms\obj\Debug\ProductSearchForms.Form3.resources

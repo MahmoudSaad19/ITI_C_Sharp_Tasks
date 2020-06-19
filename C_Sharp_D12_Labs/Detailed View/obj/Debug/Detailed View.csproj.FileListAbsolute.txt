@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\bin\Debug\Detailed View.exe.config
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\bin\Debug\Detailed View.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\bin\Debug\Detailed View.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\bin\Debug\EntityFramework.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\bin\Debug\EntityFramework.xml
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\obj\Debug\Detailed_View.Detailed.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\obj\Debug\Detailed_View.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\obj\Debug\Detailed View.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\obj\Debug\Detailed View.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\obj\Debug\Detailed View.exe
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\obj\Debug\Detailed View.pdb
+C:\Users\Mahmoud\source\repos\C_Sharp_D12_Labs\Detailed View\obj\Debug\Detailed View.csprojAssemblyReference.cache

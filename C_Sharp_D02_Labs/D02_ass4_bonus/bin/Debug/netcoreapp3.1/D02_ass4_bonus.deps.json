@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "D02_ass4_bonus/1.0.0": {
+        "runtime": {
+          "D02_ass4_bonus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D02_ass4_bonus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
